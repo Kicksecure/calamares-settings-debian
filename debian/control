@@ -11,7 +11,7 @@ Vcs-Browser: https://salsa.debian.org/live-team/calamares-settings-debian-packag
 
 Package: calamares-settings-debian
 Architecture: all
-Depends: calamares (>= 3.3.8-1),
+Depends: calamares (>= 3.3.8-1~),
          cryptsetup,
          libglib2.0-bin,
          keyutils,
