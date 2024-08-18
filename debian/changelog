@@ -1,4 +1,4 @@
-calamares-settings-debian (13.0.6-1~bpo12+1) bookworm-backports; urgency=medium
+calamares-settings-debian (13.0.8-1~bpo12+1) bookworm-backports; urgency=medium
 
   * Backport to Bookworm. (#1076740)
     * scripts/sources-final: Specify release as bookworm rather than trixie.
@@ -6,6 +6,20 @@ calamares-settings-debian (13.0.6-1~bpo12+1) bookworm-backports; urgency=medium
     * debian/control: Depend on Calamares 3.3.8-1 or newer.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 25 Jul 2024 14:08:28 -0500
+
+calamares-settings-debian (13.0.8-1) unstable; urgency=medium
+
+  * New upstream release
+    - Further attempt to fix encrypted installs
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 22 Jul 2024 15:39:42 +0900
+
+calamares-settings-debian (13.0.7-1) unstable; urgency=medium
+
+  * New upstream release
+    - Fix encrypted installs
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 22 Jul 2024 14:13:23 +0900
 
 calamares-settings-debian (13.0.6-1) unstable; urgency=medium
 
