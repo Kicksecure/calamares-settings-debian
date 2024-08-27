@@ -1,0 +1,2 @@
+#!/bin/bash
+genmkfile_lintian_post_opts+=" --suppress-tags bad-distribution-in-changes-file --suppress-tags no-nmu-in-changelog --suppress-tags backports-changes-missing --suppress-tags patch-not-forwarded-upstream --suppress-tags upstream-metadata-missing-bug-tracking --suppress-tags renamed-tag --suppress-tags trailing-whitespace"
