@@ -1,3 +1,19 @@
+commit 0c0afb765ce317653569b0e814b60a465759efc0
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 28 06:59:37 2024 -0400
+
+    fix
+    
+    Delete unnecessary and by "genmkfile debdistfile" auto generated
+    debian/calamares-settings-debian.install file which resulted in
+    an empty package.
+
+commit 30c649f0610848ecf8b22fa36319f2e3a468e652
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 28 09:47:55 2024 +0000
+
+    bumped changelog version
+
 commit 5c28939f1c3991d7543e0cf9f9111d7eaeab047f
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Aug 28 05:47:53 2024 -0400
