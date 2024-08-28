@@ -1,3 +1,21 @@
+commit 5c28939f1c3991d7543e0cf9f9111d7eaeab047f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 28 05:47:53 2024 -0400
+
+    add debian install file (generated using "genmkfile debinstfile")
+
+commit 8040e97f4dcd5916aea88c36261c2e75bd209cb3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 28 05:47:26 2024 -0400
+
+    adjust for https://github.com/Kicksecure/developer-meta-files/blob/master/usr/bin/dm-packaging-helper-script
+
+commit 5084bdd4ef3c8ebb491b5a10c26730116ecbd70b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 28 05:44:39 2024 -0400
+
+    bumped changelog version
+
 commit 10f83686828231851c3053fc2c576ad08008a285
 Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
 Date:   Tue Aug 27 01:36:44 2024 -0500
