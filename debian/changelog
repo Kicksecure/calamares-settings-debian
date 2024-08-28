@@ -1,3 +1,9 @@
+calamares-settings-debian (13.0.9-1) bookworm-backports; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Wed, 28 Aug 2024 09:43:53 +0000
+
 calamares-settings-debian (13.0.8-1~bpo12+1) bookworm-backports; urgency=medium
 
   * Backport to Bookworm. (#1076740)

@@ -1,0 +1,388 @@
+commit 10f83686828231851c3053fc2c576ad08008a285
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Aug 27 01:36:44 2024 -0500
+
+    Add genmkfile Lintian overrides
+
+commit 0469b8f1b30d8a4f10903934b0332fa3ce9597fe
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Aug 27 00:30:06 2024 -0500
+
+    Fix an unneeded Unicode character
+
+commit 78ff35d1216939d89ef06dd542ce260639ff17f7
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Sun Aug 18 05:46:33 2024 -0500
+
+    Bump changelog date.
+
+commit 18adfb57cae651d6792beb825cee77400afb8f2e
+Merge: 2d30b8b 68ca4ca
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Sun Aug 18 05:42:17 2024 -0500
+
+    Merge branch 'master' into backports
+
+commit 2d30b8bde7e3c8f3d5cbae2baaccc48174e41a95
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Sun Aug 18 05:40:18 2024 -0500
+
+    Fix a missing tilde.
+
+commit bd9d6dbeb7c5799a68677b40d0bc64a2cbe0ede7
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Thu Jul 25 14:09:13 2024 -0500
+
+    Backport to Bookworm.
+
+commit 68ca4cadfb5474893f7ff9deacd0c75e1067ea24
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Jul 22 15:54:27 2024 +0900
+
+    New upstream release
+
+commit 1457f700d0014219f2d30098aeb32e4b03990fe4
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Jul 22 12:39:33 2024 +0900
+
+    Attempt to fix encryption
+
+commit f1eaade778e68148f981d404462b8f646047bfae
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Fri Jun 21 18:29:43 2024 +0200
+
+    New upstream release
+
+commit 1812e99279ccaf02aabfd597a2d7dbb7d06ec1e7
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Fri Jun 21 18:28:53 2024 +0200
+
+    New upstream release
+
+commit 939d291d4da6a5b9860e3b93b3b93438cc41366f
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jun 19 11:02:06 2024 +0200
+
+    Update watch file
+
+commit dbd5ea6632adf4c38bc2b95366bd7c04b152b8bc
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jun 19 11:01:48 2024 +0200
+
+    Update watch file
+
+commit c620eda9315a7294dbf2a1c147172c1ea1336383
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Sun Feb 11 14:54:29 2024 +0200
+
+    New release
+
+commit 2b4012a6cd3f4408dc6200f008f187275c3f9243
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Sep 6 12:58:15 2023 +0530
+
+    make desktop launcher translation safer
+
+commit 739cba6c491fe973e5b6d9e88e8d7ac50a8867aa
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Aug 28 19:18:52 2023 +0200
+
+    New release: Fix /dev mount crash
+
+commit 86b6ea8f4f8c24b79a2c4fadb00da5f46d23b76c
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Fri Aug 25 22:01:36 2023 +0200
+
+    New upstream release
+
+commit ad0aeffc52a0695ead0a5f2694e14b9837a55c69
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu Aug 24 17:33:04 2023 +0200
+
+    New upstream release
+
+commit 77d2a2c381b0c25794c35896a062d22160585210
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu Aug 24 17:27:59 2023 +0200
+
+    New upstream release
+
+commit 291444b863432ee84e470fbe7f0683329ddf85cd
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu May 4 21:32:27 2023 +0200
+
+    New upstream release
+
+commit 64a2ef74ec6bb6908ce20be114a4a5f0bd9601ee
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu May 4 20:42:44 2023 +0200
+
+    os-prober / grub stuff
+
+commit c14e3710e89b47f49d7fb1de7ead652b8bbbb77b
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Mar 6 19:26:38 2023 +0200
+
+    New upstream release
+
+commit 02f1f852ccb5eebe576f4a45280667bd5fd24d84
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Mar 6 12:35:42 2023 +0200
+
+    New upstream release
+
+commit 3e977929fb50a7ef3440496e63933fdddbcda69a
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Aug 2 09:37:49 2022 +0200
+
+    New release
+
+commit b348bf4fb81779fe37b3469b0004bf630d4cd7aa
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu May 19 14:51:59 2022 +0200
+
+    New upstream release
+
+commit 440efe3275397319d440948de5f2c5aa33e75490
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu May 12 21:07:10 2022 +0200
+
+    New release
+
+commit f06d21fe1901f07e780621e8911744fdb172f58b
+Merge: 06541f1 a485f47
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Fri Feb 18 09:13:41 2022 +0000
+
+    Merge branch 'lintian-fixes' into 'master'
+    
+    Fix some issues reported by lintian
+    
+    See merge request live-team/calamares-settings-debian-packaging!1
+
+commit a485f47a541868a86d8c2cecdba37efd61c5df2b
+Author: Debian Janitor <janitor@jelmer.uk>
+Date:   Tue Oct 12 20:09:16 2021 +0000
+
+    Update standards version to 4.6.0, no changes needed.
+    
+    Changes-By: lintian-brush
+    Fixes: lintian: out-of-date-standards-version
+    See-also: https://lintian.debian.org/tags/out-of-date-standards-version.html
+
+commit 8773ee70d06299d12c408d49900ac05b8f38d809
+Author: Debian Janitor <janitor@jelmer.uk>
+Date:   Tue Oct 12 20:09:15 2021 +0000
+
+    Set upstream metadata fields: Repository, Repository-Browse.
+    
+    Changes-By: lintian-brush
+    Fixes: lintian: upstream-metadata-file-is-missing
+    See-also: https://lintian.debian.org/tags/upstream-metadata-file-is-missing.html
+    Fixes: lintian: upstream-metadata-missing-repository
+    See-also: https://lintian.debian.org/tags/upstream-metadata-missing-repository.html
+
+commit 06541f170dad996e3543f6c8288569e1d154ff2f
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Sep 6 08:46:17 2021 +0200
+
+    Fix security entries in sources.list
+
+commit 23079c258a5e1c8e2649ebf42310ebf130b89ac8
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Nov 11 14:55:50 2020 +0200
+
+    New upstream release
+
+commit a5414fb3818bc868474bb5f07c22637ae2016b33
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Oct 21 09:33:30 2020 +0200
+
+    New upstream release
+
+commit aa004661a35a8d59cc7a3c229e78ae9d3ea0c488
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jul 15 18:44:46 2020 +0200
+
+    New upstream release
+
+commit bfed970fd66380dec2ca525f4c91b1852eac3c3d
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jul 15 18:32:58 2020 +0200
+
+    Fix some bugs
+
+commit e965c6358a40b81ee7118aea93fee41b5143d106
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Wed Dec 11 10:56:05 2019 +0200
+
+    New upstream version
+
+commit 2078611cc4a3b6122efaa4ef026073aef483d13c
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Mon Aug 5 21:31:36 2019 +0200
+
+    Source-only upload
+
+commit f05fdbdad6917d0948158dbdeec5a96719912976
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Jul 8 12:23:29 2019 +0000
+
+    Update bootloader config
+
+commit 15a94de5d5c542bf26ddc2a76f02cea8ae0fed6a
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jul 3 13:33:09 2019 +0000
+
+    fix path
+
+commit 34abde07b698d7c5404155b866d4bd35db8d75d2
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jul 3 13:09:54 2019 +0000
+
+    Fix security issue
+
+commit 70f14a44ba9e2fa1703be0bf7f13b376a4c9c0e2
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu Apr 18 08:51:04 2019 +0000
+
+    Add .gitignore
+
+commit d1007c899d1fd6bfc4b5b79f07abd89320c4f6f3
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Thu Apr 18 08:50:53 2019 +0000
+
+    Add desktop icon
+
+commit b16e2cb5c802d9ab132ff237afb567374d65c699
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Apr 16 08:03:39 2019 +0000
+
+    Minor bugs for buster
+
+commit 6b89773a85ed1e11371621f937f6956ceea11201
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Fri Feb 15 16:08:17 2019 +0200
+
+    New upstream release
+
+commit 98abeec1c0ad091f7b8cac3ea7c23f4d662d8155
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jan 16 19:15:31 2019 +0200
+
+    New upstream release
+
+commit d9134ca843fce18f3cd60d00908a17ad245de228
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jan 16 12:16:25 2019 +0200
+
+    New upstream release
+
+commit 3c596e4f064372b986dfa548c277a64f89df6207
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Jan 9 14:00:37 2019 +0200
+
+    Fix desc
+
+commit 411ed1dcd88597720f00fbc59ad18c4f28725507
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Jan 8 10:50:15 2019 +0200
+
+    New upstream version
+
+commit 51ca364b40a12f6a73cada3676ca1e486ea14145
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Sun Dec 16 14:29:13 2018 +0200
+
+    New upstream release
+
+commit c3a993c3b707c70a29b8c6544da2e8389b2b3239
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Sat Dec 1 19:37:38 2018 +0200
+
+    Commit upstream changes
+
+commit d137b66265863099795c0419ea52e14726b62266
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Fri Nov 23 22:23:02 2018 +0200
+
+    Add install-debian wrapper
+
+commit 383139c3c0168c93d3b0d5311961889c5612174e
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Sep 25 14:44:34 2018 +0200
+
+    Fix diverts
+
+commit 5ec79c037418fa2d14529731715305d31d7f6814
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Wed Sep 19 11:34:18 2018 +0200
+
+    Fix path
+
+commit 89fea61c65db646b2e68538ce58e5a8e5b564258
+Merge: 18d541c 710f387
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Sep 18 20:59:35 2018 +0200
+
+    Merge back
+
+commit 18d541c98042af24efe810774347b1683a9b24b4
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Sep 18 20:57:47 2018 +0200
+
+    New upstream release, add diverts
+
+commit 710f3871394c29947ab085a7f2a9dac4142cf921
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Sat Aug 11 15:25:59 2018 +0200
+
+    no unstable
+
+commit ddea8df0cd45e77666e1c91db353804cf6e1e3da
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Sat Aug 11 15:25:04 2018 +0200
+
+    Fix watch file
+
+commit 3193b444d495dc41ed30165b643e64c1903789e8
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Thu Aug 9 09:30:08 2018 +0200
+
+    fix watch file
+
+commit 02bb4818ba20f9d8d404acc8a9dcdf958e3daefc
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Tue Jun 26 14:08:41 2018 +0200
+
+    New upstream release
+
+commit 39e4e793fa731df9089e5ab80b1191b8a008f6e8
+Author: Jonathan Carter <jcc@debian.org>
+Date:   Mon Jun 25 12:27:44 2018 +0200
+
+    Update .desktop file to include main category
+
+commit 34ac6e533990e70ad6831107533c2095bbe6f55c
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Mon Jun 25 12:26:11 2018 +0200
+
+    Commit recent changes
+
+commit 4f726f69f7e2289d53990724a2acfce31dcad839
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Sat May 19 12:19:18 2018 +0200
+
+    New upstream release
+
+commit 6d572192a022add0ec6afc7528f8aeeb29ffb1fc
+Author: Jonathan Carter <jonathan@bluemosh.com>
+Date:   Sat Apr 28 17:38:24 2018 +0200
+
+    Prepare for uplaod to debian
+
+commit ef219c2985a0dbcce2477ab12568e6b0d801b1df
+Author: Jonathan Carter <jcarter@linux.com>
+Date:   Mon Dec 12 11:24:37 2016 +0200
+
+    Initial release
